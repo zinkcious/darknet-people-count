@@ -3,7 +3,9 @@ It is a project to count people passed by the camera based on darknet people det
 
 # Requirement
 linux
+
 opencv
+
 gpu, cuda7.5(necessary in consideration of speed)	
 
 make 
